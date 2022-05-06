@@ -16,3 +16,8 @@ img {
 h2 {
     text-indent: 40px;
 }
+
+a img {
+    width: 25px;
+    height: auto;
+}
