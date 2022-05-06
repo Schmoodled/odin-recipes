@@ -1,15 +1,14 @@
 body{
     background-color: lightblue;
     font-family: "Helvetica", "Arial", sans-serif;
+    text-align: center
 }
 h1 {
-    text-align: center;
     font-size: 50px;
     font-weight: bold;
 }
 
 ul{
-    text-align: center;
     font-weight: bold;
 }
 
